@@ -6,7 +6,7 @@
 
 
     .tooltip {
-       position: relative;
+       /* position: relative; */
        height: 60px;
        width: 250px;
        background: #f2395a;
@@ -14,6 +14,7 @@
        text-align: center;
        line-height: 60px;
        margin: 0 auto;
+     
     }
 
         .tooltip:hover::before, .tooltip:hover::after {
